@@ -6,3 +6,6 @@ https://github.com/MaxvanderHofstad/Assignments./blob/master/assignment2(1).ipyn
 
 Assignment 3:
 https://github.com/MaxvanderHofstad/Assignments./blob/master/assignment3.ipynb
+
+Assignment 4:
+https://github.com/MaxvanderHofstad/Assignments./blob/master/assignment4(1).ipynb
