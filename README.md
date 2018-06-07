@@ -19,3 +19,5 @@ https://github.com/MaxvanderHofstad/Assignments./blob/master/Graded_assignment_2
 R exam:
 https://github.com/MaxvanderHofstad/Assignments./blob/master/Exam_student%20(1).ipynb
 
+Python exam:
+https://github.com/MaxvanderHofstad/Assignments./blob/master/exam_june_7_2018%20(2)(2).ipynb
