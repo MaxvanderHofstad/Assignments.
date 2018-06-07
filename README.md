@@ -15,3 +15,7 @@ https://github.com/MaxvanderHofstad/Assignments./blob/master/Graded_assignment1(
 
 Graded Assignment 2:
 https://github.com/MaxvanderHofstad/Assignments./blob/master/Graded_assignment_2(1).ipynb
+
+R exam:
+https://github.com/MaxvanderHofstad/Assignments./blob/master/Exam_student%20(1).ipynb
+
